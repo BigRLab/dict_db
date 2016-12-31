@@ -1,8 +1,8 @@
 DictDb
 ======
-"Work with DBs as if they are Python dictionaries"
-Database as dict
-Python Database interface
+| "Work with DBs as if they are Python dictionaries"
+| Database as dict
+| Python Database interface
 
 Install
 -------
